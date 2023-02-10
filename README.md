@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ranged
 - 😈🤙🏿 I’m interested in learn all kinds of programming languages.
-- 🌱 I’m currently learning CSS, JS, PHP, HTML and Java (I'm not expert).
-- 📫 How to reach me: Add me on Discord like ! 𝐑𝐚𝐧𝐠𝐞𝐝#1951
+- 🌱 I have experience as CSS, PHP, PYTHON, JS, Angular , React.js, .Net and C# development.
+- 📫 How to reach me: Add me on Discord as Rangeddd#0001
